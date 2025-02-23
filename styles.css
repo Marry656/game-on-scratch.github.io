@@ -1,0 +1,80 @@
+@font-face{
+    font-family: "Font1";
+    src: url("Monaco.otf");
+}
+
+body{
+    margin: 0px;
+    font-family: "Font1";
+}
+
+.banner_d{
+
+}
+#banner{
+    width: 100%;
+}
+#banner_text{
+    margin: 0px;
+    text-align: center;
+    font-size: 5vw;
+}
+
+#title{
+    font-size: 2.5vw;
+}
+#space{
+    margin: 4vw;
+}
+
+#about_scratch{
+    margin: 1vw;
+    padding: 2vw;
+    width: 50%;
+    text-align: left;
+    font-size: 1vw;
+    background: #f5f5f5;
+}
+
+#text{
+    width: 50%;
+    text-align: left;
+    font-size: 1vw;
+}
+#why_scratch{
+    width: 100%;
+    background: #f5f5f5;
+}
+
+#step{
+}
+#text1{
+    text-align: center;
+    font-size: 1vw;
+    width: 30vw;
+}
+#img_step{
+    width: 30vw;
+}
+
+#button{
+    width: 20vw;
+    height: 5vw;
+    background: black;
+    border: .25vw solid white;
+    border-radius: .5vw;
+    color: white;
+    font-size: 2vw;
+    font-family: "Font1";
+    box-shadow: 0px .7vw 1vw gray;
+    margin-bottom: 2vw;
+    cursor: pointer;
+}
+
+#footer{
+    width: 100%;
+    background: #111111;
+    bottom: 0px;
+    height: 10vw;
+    color: white;
+}
